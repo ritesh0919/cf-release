@@ -9,7 +9,7 @@
   url = https://github.com/cloudfoundry/dea_ng.git
 [submodule "src/gorouter"]
 	path = src/gorouter
-	url = https://github.com/cloudfoundry/gorouter
+	url = https://github.com/ritesh0919/gorouter
 [submodule "src/stager"]
   path = src/stager
   url = https://github.com/cloudfoundry/stager.git
